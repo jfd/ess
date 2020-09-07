@@ -4,3 +4,4 @@ export * as List from "./src/List.mjs";
 export * as Path from "./src/Path.mjs";
 export * as QueryString from "./src/QueryString.mjs";
 export * as Str from "./src/Str.mjs";
+export * as Timer from "./src/Timer.mjs";

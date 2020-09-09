@@ -2,6 +2,8 @@ export * as Assert from "./src/Assert.mjs";
 export * as Dict from "./src/Dict.mjs";
 export * as List from "./src/List.mjs";
 export * as Path from "./src/Path.mjs";
+export * as Punycode from "./src/Punycode.mjs";
 export * as QueryString from "./src/QueryString.mjs";
 export * as Str from "./src/Str.mjs";
 export * as Timer from "./src/Timer.mjs";
+export * as Url from "./src/Url.mjs";

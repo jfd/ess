@@ -189,7 +189,7 @@ function clone(list) {
         result[idx] = list[idx];
     }
 
-    return list;
+    return result;
 }
 
 /// Extract the first element of **list**.
